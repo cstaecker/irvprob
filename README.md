@@ -1,9 +1,7 @@
 # irvprob
 Probabilistic predictions of IRV elections
 
-Functions for probabilistic analysis of IRV elections, implementing the algorithm from:
-  Ahead of the Count: An Algorithm for Probabilistic Prediction of Instant Runoff (IRV) Elections
-  by Nick Kapoor & Chris Staecker
+Functions for probabilistic analysis of IRV elections, implementing the algorithm from: *Ahead of the Count: An Algorithm for Probabilistic Prediction of Instant Runoff (IRV) Elections* by Nick Kapoor & Chris Staecker
 
 This code is written by Chris Staecker.
 Please contact us with any questions! cstaecker@fairfield.edu
@@ -35,10 +33,6 @@ ae = alaskaElection_from_simple_file("alaska2022-simplified.json")
 
 # gets preference schedule for AK contest #42, which is AK House District 18
 ps = ae.fullprefschedule(42) 
-
-# names of races & candidates all are numbers internally. Look them up like this:
-print(ae.contestnames[42])
-print(ae.candidatenames[50],ae.candidatenames[51],ae.candidatenames[52])
 
 print(ps.dict)   # show vote totals for various rankings
 
