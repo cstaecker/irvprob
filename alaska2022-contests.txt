@@ -1,0 +1,94 @@
+CONTEST ID  RACE NAME
+----------------------
+3:          U.S. Senator
+4:          U.S. Representative
+5:          Governor / Lieutenant Governor
+6:          Senate District A
+7:          Senate District B
+8:          Senate District C
+9:          Senate District D
+10:         Senate District E
+11:         Senate District F
+12:         Senate District G
+13:         Senate District H
+14:         Senate District I
+15:         Senate District J
+16:         Senate District K
+17:         Senate District L
+18:         Senate District M
+19:         Senate District N
+20:         Senate District O
+21:         Senate District P
+22:         Senate District Q
+23:         Senate District R
+24:         Senate District S
+25:         House District 1
+26:         House District 2
+27:         House District 3
+28:         House District 4
+29:         House District 5
+30:         House District 6
+31:         House District 7
+32:         House District 8
+33:         House District 9
+34:         House District 10
+35:         House District 11
+36:         House District 12
+37:         House District 13
+38:         House District 14
+39:         House District 15
+40:         House District 16
+41:         House District 17
+42:         House District 18
+43:         House District 19
+44:         House District 20
+45:         House District 21
+46:         House District 22
+47:         House District 23
+48:         House District 24
+49:         House District 25
+50:         House District 26
+51:         House District 27
+52:         House District 28
+53:         House District 29
+54:         House District 30
+55:         House District 31
+56:         House District 32
+57:         House District 33
+58:         House District 34
+59:         House District 35
+60:         House District 36
+61:         House District 37
+62:         House District 38
+63:         House District 39
+64:         House District 40
+65:         BM#1 Constitutional Convention
+66:         Court of Appeals - Harbison
+67:         Superior Court JD1 - Mead
+68:         Superior Court JD1 - Pate
+69:         Superior Court JD1 - Schally
+70:         District Court JD1 - Swanson
+71:         Superior Court JD3 - Cagle
+72:         Superior Court JD3 - Easter
+73:         Superior Court JD3 - Gandbhir
+74:         Superior Court JD3 - Garton
+75:         Superior Court JD3 - Gist
+76:         Superior Court JD3 - Joanis
+77:         Superior Court JD3 - Kristiansen
+78:         Superior Court JD3 - Matthews
+79:         Superior Court JD3 - Peterson
+80:         Superior Court JD3 - Ramgren
+81:         Superior Court JD3 - Saxby
+82:         Superior Court JD3 - Stohler
+83:         Superior Court JD3 - Wallace
+84:         District Court JD3 - Chung
+85:         District Court JD3 - Clark
+86:         District Court JD3 - Fallon
+87:         District Court JD3 - Jamgochian
+88:         District Court JD3 - Nesbett
+89:         District Court JD3 - Traini
+90:         Superior Court JD4 - Bennett
+91:         Superior Court JD4 - Haas
+92:         Superior Court JD4 - Peterson
+93:         Superior Court JD4 - Temple
+94:         District Court JD4 - Seekins

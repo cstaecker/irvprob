@@ -1,0 +1,272 @@
+CANDIDATE ID#  NAME
+-------------------------------------------------
+1:             Patkotak, Josiah B. "Aullaqsruaq"
+2:             Foster, Neal W.
+3:             Ivanoff, Tyler L.
+4:             McCormick, Conrad J. "C.J."
+5:             Edgmon, Bryce
+6:             Fowler, Angela K. "Fitch"
+7:             Cronk, Mike
+8:             Hopkins, Grier H.
+9:             Tomaszewski, Frank J.
+10:            DeMars, Nate
+11:            Prax, Glenn M. "Mike"
+12:            Givens, Timothy W.
+13:            Stapp, Will B.
+14:            Lawrence, Van
+15:            Nash, Kelly
+16:            Dibert, Maxine L.
+17:            LeBon, Barton S.
+18:            Holmes, Doyle E.
+19:            McCabe, Kevin J.
+20:            Mindiola, L. Joy
+21:            Haase, Elijah D.
+22:            Rauscher, George
+23:            Allen, Rachel M.
+24:            Sumner, Jesse M.
+25:            Wright, Jessica
+26:            Menard, Steve
+27:            Graham, Stuart R. "Stu"
+28:            Eastman, David
+29:            Carpenter, Brendan R.
+30:            Stokes, Daniel L.
+31:            Tilton, Cathy L.
+32:            Johnson, DeLena M.
+33:            Wood, Lawrence D.
+34:            Nelson, Daryl W.
+35:            Jackson, Sharon
+36:            Saddler, Dan
+37:            Allard, Jamie
+38:            Branson, Roger L.
+40:            Wright, Stanley A.
+41:            Eischeid, Ted J.
+42:            Wolfe, Forrest M.
+43:            Mears, Donna C.
+44:            Harary, Jordan I.
+45:            Gray, Andrew T.
+46:            Kohlhaas, Scott A.
+47:            Bauer, Paul A.
+48:            Wyatt, Russell O.
+49:            Mina, Genevieve G.
+50:            Franks, Lyn D.
+51:            Nelson, David
+52:            Groh, Cliff
+53:            Fields, William Z. "Zack"
+54:            Drummond, Harriet A.
+55:            Armstrong, Jennifer "Jennie"
+56:            Vazquez, Liz
+59:            Wells, Denny
+60:            Eibeck, David
+61:            McKay, Thomas W. "Tom"
+62:            Galvin, Alyse S.
+63:            Danger, Nicholas
+64:            Henslee, Katherine J. "Kathy"
+66:            Josephson, Andy
+67:            Schrage, Calvin R.
+68:            McDonald, Jay
+69:            Featherly, Walter T.
+70:            Bieling, Ross P.
+71:            Coulombe, Julie
+72:            Insalaco, Mikel E.
+73:            Johnson, Craig W.
+74:            Storm, Caroline
+76:            Schaff, David L.
+77:            Shaw, Laddie H.
+78:            Carpenter, Ben
+79:            Gillham, Ronald D. "Ron"
+80:            Ruffridge, Justin
+81:            Flora, Louis A. "Louie"
+82:            Vance, Sarah L.
+83:            Bryant, Ginger
+84:            Vincent, Benjamin T.
+85:            Stutes, Louise B.
+86:            Hannan, Sara
+87:            Harmon, Darrell J.
+88:            Story, Andrea "Andi"
+89:            Himschoot, Rebecca
+90:            Skaflestad, Kenny
+91:            Ortiz, Daniel H. "Dan"
+92:            Bynum, Jeremy T.
+93:            Hoffman, Lyman F.
+94:            Keppel, Willy
+95:            Verhagen, Elijah M.
+96:            Bishop, Click
+97:            Williams, Robert "Bert"
+98:            Serkov, Arthur P.
+99:            Bennett, John D.
+100:           Myers, Robert H. Jr.
+101:           Jafre, Alex N.
+102:           Kawasaki, Scott
+103:           Matherly, Jim
+104:           Shower, Michael K.
+105:           Massie, Doug A.
+106:           Clayton, Scott D.
+107:           Wilson, David S.
+108:           Wright, Stephen
+109:           Hughes, Shelley
+110:           Cooper, Jim
+113:           McCarty, Ken
+114:           Merrick, Kelly R.
+115:           Cunningham, John W.
+116:           Wielechowski, Bill
+117:           Satterfield, Andrew E.
+119:           Tarr, Geran
+120:           Dunbar, Forrest
+121:           Herndon, Heather
+122:           Tobin, Löki G.
+123:           Claman, Matt
+124:           Costello, Mia
+125:           Gray-Jackson, Elvi
+126:           Sanders, Marcus D.
+127:           Kaufman, James D.
+128:           Park, Janice L.
+129:           Holland, Roger
+130:           Giessel, Cathy
+131:           Cacy, Roselynn
+132:           Babcock, Tuckerman
+133:           Bjorkman, Jesse J.
+134:           Cizek, Andy
+135:           Jones, Walter H.
+136:           Smith, Heath
+137:           Stevens, Gary
+138:           Kiehl, Jesse
+139:           Sheldon, Mike
+140:           Stedman, Bert K.
+141:           YES
+142:           NO
+143:           YES
+144:           NO
+145:           YES
+146:           NO
+147:           YES
+148:           NO
+149:           YES
+150:           NO
+151:           YES
+152:           NO
+153:           YES
+154:           NO
+155:           YES
+156:           NO
+157:           YES
+158:           NO
+159:           YES
+160:           NO
+161:           YES
+162:           NO
+163:           YES
+164:           NO
+165:           YES
+166:           NO
+167:           YES
+168:           NO
+169:           YES
+170:           NO
+171:           YES
+172:           NO
+173:           YES
+174:           NO
+175:           YES
+176:           NO
+177:           YES
+178:           NO
+179:           YES
+180:           NO
+181:           YES
+182:           NO
+183:           YES
+184:           NO
+185:           YES
+186:           NO
+187:           YES
+188:           NO
+189:           YES
+190:           NO
+191:           YES
+192:           NO
+193:           YES
+194:           NO
+195:           YES
+196:           NO
+197:           YES
+198:           NO
+199:           YES
+200:           NO
+201:           Write-in
+202:           Write-in
+203:           Write-in
+204:           Write-in
+205:           Write-in
+206:           Write-in
+207:           Write-in
+208:           Write-in
+209:           Write-in
+210:           Write-in
+211:           Write-in
+212:           Write-in
+213:           Write-in
+214:           Write-in
+215:           Write-in
+216:           Write-in
+217:           Write-in
+218:           Write-in
+219:           Write-in
+220:           Write-in
+221:           Write-in
+222:           Write-in
+223:           Write-in
+224:           Write-in
+225:           Write-in
+226:           Write-in
+227:           Write-in
+228:           Write-in
+229:           Write-in
+230:           Write-in
+231:           Write-in
+232:           Write-in
+233:           Write-in
+234:           Write-in
+235:           Write-in
+236:           Write-in
+237:           Write-in
+238:           Write-in
+239:           Write-in
+240:           Write-in
+241:           Write-in
+242:           Write-in
+243:           Write-in
+244:           Write-in
+245:           Write-in
+246:           Write-in
+247:           Write-in
+248:           Write-in
+249:           Write-in
+250:           Write-in
+251:           Write-in
+252:           Write-in
+253:           Write-in
+254:           Write-in
+255:           Write-in
+256:           Write-in
+257:           Write-in
+258:           Write-in
+259:           Write-in
+260:           Write-in
+261:           Write-in
+262:           Write-in
+263:           Begich, Nick
+264:           Palin, Sarah
+265:           Peltola, Mary S.
+267:           Dunleavy/Dahlstrom
+268:           Gara/Cook
+269:           Pierce/Grunwald
+270:           Walker/Drygas
+271:           Chesbro, Patricia R.
+272:           Kelley, Buzz A.
+273:           Murkowski, Lisa
+274:           Tshibaka, Kelly C.
+275:           McKinley, Kevin
+276:           McNeill, Ruben A. Jr.
+277:           Carrick, Ashley E.
+279:           Bye, Chris
+280:           Brown, Kieran C.
