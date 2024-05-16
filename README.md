@@ -3,8 +3,9 @@ Probabilistic predictions of IRV elections
 
 Functions for probabilistic analysis of IRV elections, implementing the algorithm from: *Ahead of the Count: An Algorithm for Probabilistic Prediction of Instant Runoff (IRV) Elections* by Nick Kapoor & Chris Staecker
 
-This code is written by Chris Staecker.
-Please contact us with any questions! cstaecker@fairfield.edu
+Read the paper at [arxiv:2405.09009](https://arxiv.org/abs/2405.09009)
+
+This code is written by Chris Staecker. Please contact us with any questions!
 
 Includes files:
  * irvprob.py (main functions here)
